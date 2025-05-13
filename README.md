@@ -1,5 +1,5 @@
-## Name:HAREESH R
-## Reg no:212223230068
+## Name:KAVINILAVAN DK
+## Reg no:212223230103
 # EX-6:Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
